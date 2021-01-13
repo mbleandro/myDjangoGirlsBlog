@@ -1,2 +1,4 @@
 # myDjangoGirlsBlog
-Django Girls tutorial blog
+Django Girls tutorial blog 
+
+Leandro, não roube minha tomada mais
